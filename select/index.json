@@ -1,160 +1,160 @@
 {
   "version": 1,
-  "base_track": "White Wine & Adderall",
-  "base_artist": "The Chainsmokers & Beau Nox",
-  "createdAt": "2026-02-10T01:50:21.851355Z",
+  "base_track": "Bones",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2026-02-10T01:50:46.265441Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "white wine",
-      "artist": "Lil Peep feat. Lil Tracy",
+      "title": "Bones in the Ocean",
+      "artist": "The Longest Johns",
       "has_synced": true,
-      "path": "select/01_white_wine_Lil_Peep_feat._Lil_Tracy.lrc"
+      "path": "select/01_Bones_in_the_Ocean_The_Longest_Johns.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "White Wine",
-      "artist": "Lil Peep & Lil Tracy",
+      "title": "Bones",
+      "artist": "Imagine Dragons",
       "has_synced": true,
-      "path": "select/02_White_Wine_Lil_Peep_&_Lil_Tracy.lrc"
+      "path": "select/02_Bones_Imagine_Dragons.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "White Wine and Fried Chicken",
-      "artist": "Hot Chip",
+      "title": "In My Bones",
+      "artist": "Ray Dalton",
       "has_synced": true,
-      "path": "select/03_White_Wine_and_Fried_Chicken_Hot_Chip.lrc"
+      "path": "select/03_In_My_Bones_Ray_Dalton.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "White Wine In The Sun",
-      "artist": "Tim Minchin",
+      "title": "Diggin' Up Bones",
+      "artist": "Randy Travis",
       "has_synced": true,
-      "path": "select/04_White_Wine_In_The_Sun_Tim_Minchin.lrc"
+      "path": "select/04_Diggin'_Up_Bones_Randy_Travis.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "White Wine In The Sun",
-      "artist": "Tim Minchin",
+      "title": "Diggin' Up Bones",
+      "artist": "Randy Travis",
       "has_synced": true,
-      "path": "select/05_White_Wine_In_The_Sun_Tim_Minchin.lrc"
+      "path": "select/05_Diggin'_Up_Bones_Randy_Travis.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "white wine",
-      "artist": "Lil Peep feat. Lil Tracy",
+      "title": "Diggin' Up Bones (Album Version)",
+      "artist": "Randy Travis",
       "has_synced": true,
-      "path": "select/06_white_wine_Lil_Peep_feat._Lil_Tracy.lrc"
+      "path": "select/06_Diggin'_Up_Bones_(Album_Version)_Randy_Travis.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "White Wine",
-      "artist": "Lil Peep & Lil Tracy",
+      "title": "Out of My Bones",
+      "artist": "Randy Travis",
       "has_synced": true,
-      "path": "select/07_White_Wine_Lil_Peep_&_Lil_Tracy.lrc"
+      "path": "select/07_Out_of_My_Bones_Randy_Travis.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "white wine",
-      "artist": "Lil Peep feat. Lil Tracy",
-      "has_synced": false,
-      "path": "select/08_white_wine_Lil_Peep_feat._Lil_Tracy.txt"
+      "title": "The Bones",
+      "artist": "Maren Morris",
+      "has_synced": true,
+      "path": "select/08_The_Bones_Maren_Morris.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "White Wine And Fried Chicken",
-      "artist": "Hot Chip",
-      "has_synced": false,
-      "path": "select/09_White_Wine_And_Fried_Chicken_Hot_Chip.txt"
+      "title": "The Bones (Dave Audé Remix)",
+      "artist": "Maren Morris feat. Dave Audé",
+      "has_synced": true,
+      "path": "select/09_The_Bones_(Dave_Audé_Remix)_Maren_Morris_feat._Dave_Audé.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "White Wine Spritzer",
-      "artist": "Okilly Dokilly",
-      "has_synced": true,
-      "path": "select/10_White_Wine_Spritzer_Okilly_Dokilly.lrc"
+      "title": "The Bones (Dave Audé Remix)",
+      "artist": "Maren Morris",
+      "has_synced": false,
+      "path": "select/10_The_Bones_(Dave_Audé_Remix)_Maren_Morris.txt"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "White Wine in a Wetherspoons",
-      "artist": "Wilbur Music",
+      "title": "Bones",
+      "artist": "Radiohead",
       "has_synced": true,
-      "path": "select/11_White_Wine_in_a_Wetherspoons_Wilbur_Music.lrc"
+      "path": "select/11_Bones_Radiohead.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "White Wine in a Wetherspoons",
-      "artist": "Wilbur Soot",
+      "title": "Bones",
+      "artist": "In Fear and Faith",
       "has_synced": true,
-      "path": "select/12_White_Wine_in_a_Wetherspoons_Wilbur_Soot.lrc"
+      "path": "select/12_Bones_In_Fear_and_Faith.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "Red Or White Wine?",
-      "artist": "Drop Dead, Gorgeous",
-      "has_synced": true,
-      "path": "select/13_Red_Or_White_Wine_Drop_Dead,_Gorgeous.lrc"
+      "title": "Elephant Bones",
+      "artist": "Eidola",
+      "has_synced": false,
+      "path": "select/13_Elephant_Bones_Eidola.txt"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "white wine",
-      "artist": "kamal.",
+      "title": "Jealous Bones",
+      "artist": "Rolo Tomassi",
       "has_synced": true,
-      "path": "select/14_white_wine_kamal..lrc"
+      "path": "select/14_Jealous_Bones_Rolo_Tomassi.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "White Wine",
-      "artist": "French The Kid",
+      "title": "Bones (2 Meter)",
+      "artist": "Radiohead",
       "has_synced": true,
-      "path": "select/15_White_Wine_French_The_Kid.lrc"
+      "path": "select/15_Bones_(2_Meter)_Radiohead.lrc"
     },
     {
       "id": "lrclib_16",
       "source": "lrclib",
-      "title": "White Wine",
-      "artist": "Lil Peep",
+      "title": "Bones - BBC Radio 1 Evening Session",
+      "artist": "Radiohead",
       "has_synced": true,
-      "path": "select/16_White_Wine_Lil_Peep.lrc"
+      "path": "select/16_Bones_-_BBC_Radio_1_Evening_Session_Radiohead.lrc"
     },
     {
       "id": "lrclib_17",
       "source": "lrclib",
-      "title": "White Wine",
-      "artist": "Taylor McCall",
-      "has_synced": false,
-      "path": "select/17_White_Wine_Taylor_McCall.txt"
+      "title": "Bones (BBC Radio One Session 14/09/94)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/17_Bones_(BBC_Radio_One_Session_14_09_94)_Radiohead.lrc"
     },
     {
       "id": "lrclib_18",
       "source": "lrclib",
-      "title": "White Wine In the Sun (Live)",
-      "artist": "Tim Minchin",
-      "has_synced": false,
-      "path": "select/18_White_Wine_In_the_Sun_(Live)_Tim_Minchin.txt"
+      "title": "Bones (Live At the Forum)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/18_Bones_(Live_At_the_Forum)_Radiohead.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "White Wine & Adderall",
-      "artist": "The Chainsmokers & Beau Nox",
+      "title": "Bones",
+      "artist": "Imagine Dragons",
       "has_synced": false,
-      "path": "select/pl_01_White_Wine_&_Adderall_The_Chainsmokers_&_Beau_Nox.txt"
+      "path": "select/pl_01_Bones_Imagine_Dragons.txt"
     }
   ]
 }
