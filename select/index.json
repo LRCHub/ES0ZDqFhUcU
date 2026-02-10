@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "White Wine & Adderall",
+  "base_artist": "The Chainsmokers & Beau Nox",
+  "createdAt": "2026-02-10T01:50:21.851355Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "white wine",
+      "artist": "Lil Peep feat. Lil Tracy",
+      "has_synced": true,
+      "path": "select/01_white_wine_Lil_Peep_feat._Lil_Tracy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "White Wine",
+      "artist": "Lil Peep & Lil Tracy",
+      "has_synced": true,
+      "path": "select/02_White_Wine_Lil_Peep_&_Lil_Tracy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "White Wine and Fried Chicken",
+      "artist": "Hot Chip",
+      "has_synced": true,
+      "path": "select/03_White_Wine_and_Fried_Chicken_Hot_Chip.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "White Wine In The Sun",
+      "artist": "Tim Minchin",
+      "has_synced": true,
+      "path": "select/04_White_Wine_In_The_Sun_Tim_Minchin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "White Wine In The Sun",
+      "artist": "Tim Minchin",
+      "has_synced": true,
+      "path": "select/05_White_Wine_In_The_Sun_Tim_Minchin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "white wine",
+      "artist": "Lil Peep feat. Lil Tracy",
+      "has_synced": true,
+      "path": "select/06_white_wine_Lil_Peep_feat._Lil_Tracy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "White Wine",
+      "artist": "Lil Peep & Lil Tracy",
+      "has_synced": true,
+      "path": "select/07_White_Wine_Lil_Peep_&_Lil_Tracy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "white wine",
+      "artist": "Lil Peep feat. Lil Tracy",
+      "has_synced": false,
+      "path": "select/08_white_wine_Lil_Peep_feat._Lil_Tracy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "White Wine And Fried Chicken",
+      "artist": "Hot Chip",
+      "has_synced": false,
+      "path": "select/09_White_Wine_And_Fried_Chicken_Hot_Chip.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "White Wine Spritzer",
+      "artist": "Okilly Dokilly",
+      "has_synced": true,
+      "path": "select/10_White_Wine_Spritzer_Okilly_Dokilly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "White Wine in a Wetherspoons",
+      "artist": "Wilbur Music",
+      "has_synced": true,
+      "path": "select/11_White_Wine_in_a_Wetherspoons_Wilbur_Music.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "White Wine in a Wetherspoons",
+      "artist": "Wilbur Soot",
+      "has_synced": true,
+      "path": "select/12_White_Wine_in_a_Wetherspoons_Wilbur_Soot.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Red Or White Wine?",
+      "artist": "Drop Dead, Gorgeous",
+      "has_synced": true,
+      "path": "select/13_Red_Or_White_Wine_Drop_Dead,_Gorgeous.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "white wine",
+      "artist": "kamal.",
+      "has_synced": true,
+      "path": "select/14_white_wine_kamal..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "White Wine",
+      "artist": "French The Kid",
+      "has_synced": true,
+      "path": "select/15_White_Wine_French_The_Kid.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "White Wine",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/16_White_Wine_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "White Wine",
+      "artist": "Taylor McCall",
+      "has_synced": false,
+      "path": "select/17_White_Wine_Taylor_McCall.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "White Wine In the Sun (Live)",
+      "artist": "Tim Minchin",
+      "has_synced": false,
+      "path": "select/18_White_Wine_In_the_Sun_(Live)_Tim_Minchin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "White Wine & Adderall",
+      "artist": "The Chainsmokers & Beau Nox",
+      "has_synced": false,
+      "path": "select/pl_01_White_Wine_&_Adderall_The_Chainsmokers_&_Beau_Nox.txt"
+    }
+  ]
+}
